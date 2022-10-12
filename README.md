@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**BLACKRAVEN92/Blackraven92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Edd/Blackraven92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
